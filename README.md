@@ -1,5 +1,3 @@
-Here’s your about text updated with Flashcard Maker.
-
 ## About Me
 
 I’m Pavel Volkov – indie hacker, product founder, and ecosystem lead.  
